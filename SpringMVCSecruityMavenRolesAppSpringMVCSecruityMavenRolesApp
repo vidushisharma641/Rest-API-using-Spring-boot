@@ -1,0 +1,6 @@
+<artifactId>SpringMVCSecruityMavenRolesApp</artifactId>
+
+<build>
+  <finalName>SpringMVCSecruityMavenRolesApp</finalName>
+</build>
+</project>
